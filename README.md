@@ -1,7 +1,7 @@
 <h1>Menu areas y perimetros de figuras created by Sabo</h1>
 Download the required Python version before running the program.
 <br>
-Basic program to edit and learn variables, functions, imports, triggers and definitions in Python.
+Basic program to edit and learn variables, functions, imports, triggers and definitions in Python
 <br>
 <br>
 
